@@ -1,0 +1,82 @@
+
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 650px;
+
+}
+
+.col1{
+
+    width: 40%;
+    height: 650px;
+    
+}
+
+.col2{
+width: 60%;
+display: flex;
+flex-direction: column;
+width: 70%;
+height: 760px;
+background-color: black;
+padding: 20px;
+
+}
+
+.uppercol{
+    width: 100%;
+    height: 40%;
+}
+
+.lowercol{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.lower1{
+
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.lower2{
+width: 100%;
+height: 50%;
+display: flex;
+flex-direction: row;
+}
+
+.lsone{
+    width: 50%;
+
+}
+
+.lstwo{
+    width: 50%;
+}
+
+.lsthree{
+    width: 50%;
+   
+}
+
+.lsfour{
+    width: 50%;
+}
+
+h3{
+    color: white;
+}
+
+.pgraytext{
+    color: dimgray;
+}
+
